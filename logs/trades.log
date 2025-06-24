@@ -1,0 +1,12 @@
+14:52:23.951 [nioEventLoopGroup-3-3] INFO  server.Trade - Committing trade between Ricardo and Admin
+Trading Ricardo -> Admin: 578000 mesos, items: []
+Trading Admin -> Ricardo: 0 mesos, items: []
+
+15:02:09.096 [nioEventLoopGroup-3-3] INFO  server.Trade - Committing trade between Ricardo and Admin
+Trading Ricardo -> Admin: 0 mesos, items: []
+Trading Admin -> Ricardo: 0 mesos, items: [1x Wizet Secret Agent Suitcase (1322013)]
+
+15:12:37.776 [nioEventLoopGroup-3-5] INFO  server.Trade - Committing trade between Admin and Mago
+Trading Admin -> Mago: 0 mesos, items: [1x Wizet Secret Agent Suitcase (1322013)]
+Trading Mago -> Admin: 0 mesos, items: []
+

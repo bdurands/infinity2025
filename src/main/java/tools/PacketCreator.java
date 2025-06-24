@@ -5722,6 +5722,8 @@ public class PacketCreator {
         return showCash(mc);
     }
 
+
+
     public static class WhisperFlag {
         public static final byte LOCATION = 0x01;
         public static final byte WHISPER = 0x02;

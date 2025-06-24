@@ -2548,6 +2548,15 @@ public class Character extends AbstractCharacterObject {
             chrLock.unlock();
         }
     }
+    public static Character createFake(String name, int jobId, Client client, int level, Point position) {
+        Character chr = new Character(); // usa el constructor privado
+        chr.setName(name);
+        chr.setJob(Job.getById(jobId)); // Aquí usamos el método real del enum Job
+        chr.setClient(client);
+        chr.setLevel(level);
+        chr.setPosition(position);
+        return chr;
+    }
 
     private void startExtraTask(final byte healHP, final byte healMP, final short healInterval) {
         chrLock.lock();

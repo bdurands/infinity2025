@@ -1,0 +1,44 @@
+21:55:33.240 [main] INFO  server.Server - Cosmic v83 starting up.
+21:55:33.602 [main] INFO  tools.DatabaseConnection - Initializing database connection pool. Connecting to:'jdbc:mysql://localhost:8585/infinity2025' with user:'root'
+21:55:33.660 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Starting...
+21:55:34.947 [main] INFO  pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b0c9195
+21:55:34.953 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Start completed.
+21:55:35.460 [main] INFO  tools.DatabaseConnection - Connection pool initialized in 1856 ms
+21:55:38.588 [main] INFO  server.Server - Starting world 0
+21:55:42.903 [main] INFO  channel.Channel - Channel 1: Listening on port 7575
+21:55:43.055 [main] INFO  channel.Channel - Channel 2: Listening on port 7576
+21:55:43.202 [main] INFO  channel.Channel - Channel 3: Listening on port 7577
+21:55:43.332 [main] INFO  channel.Channel - Channel 4: Listening on port 7578
+21:55:43.416 [main] INFO  channel.Channel - Channel 5: Listening on port 7579
+21:55:43.508 [main] INFO  server.Server - Finished loading world 0
+21:55:43.588 [main] INFO  server.Server - Listening on port 8484
+21:55:43.588 [main] INFO  server.Server - Cosmic is now online after 10366 ms.
+04:29:25.053 [nioEventLoopGroup-13-1] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:29:36.751 [nioEventLoopGroup-13-2] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:29:53.995 [nioEventLoopGroup-13-3] DEBUG netty.LoginServerInitializer - Client connected to login server from 181.67.2.224 
+04:30:06.498 [nioEventLoopGroup-13-4] DEBUG netty.LoginServerInitializer - Client connected to login server from 181.67.2.224 
+04:30:31.541 [nioEventLoopGroup-13-5] DEBUG netty.LoginServerInitializer - Client connected to login server from 181.67.2.224 
+04:30:51.610 [nioEventLoopGroup-13-6] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:31:07.156 [nioEventLoopGroup-13-7] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:31:26.482 [nioEventLoopGroup-13-8] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:32:08.315 [nioEventLoopGroup-13-9] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:32:21.494 [nioEventLoopGroup-13-10] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:32:32.174 [nioEventLoopGroup-13-11] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:32:48.774 [nioEventLoopGroup-13-12] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:32:56.928 [nioEventLoopGroup-13-13] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:35:54.675 [nioEventLoopGroup-13-14] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:36:08.759 [nioEventLoopGroup-13-15] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:36:15.274 [nioEventLoopGroup-13-16] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:38:28.155 [Thread-0] INFO  server.Server - Shutting down the server!
+04:38:28.157 [Thread-0] INFO  channel.Channel - Shutting down channel 1 in world 0
+04:38:28.217 [Thread-0] INFO  channel.Channel - Successfully shut down channel 1 in world 0
+04:38:28.218 [Thread-0] INFO  channel.Channel - Shutting down channel 2 in world 0
+04:38:28.252 [Thread-0] INFO  channel.Channel - Successfully shut down channel 2 in world 0
+04:38:28.252 [Thread-0] INFO  channel.Channel - Shutting down channel 3 in world 0
+04:38:28.283 [Thread-0] INFO  channel.Channel - Successfully shut down channel 3 in world 0
+04:38:28.284 [Thread-0] INFO  channel.Channel - Shutting down channel 4 in world 0
+04:38:28.315 [Thread-0] INFO  channel.Channel - Successfully shut down channel 4 in world 0
+04:38:28.316 [Thread-0] INFO  channel.Channel - Shutting down channel 5 in world 0
+04:38:28.350 [Thread-0] INFO  channel.Channel - Successfully shut down channel 5 in world 0
+04:38:28.351 [Thread-0] INFO  world.World - Finished shutting down world 0
+04:38:28.360 [Thread-0] INFO  server.Server - Worlds and channels are offline.

@@ -1,0 +1,205 @@
+23:38:37.848 [main] INFO  server.Server - Cosmic v83 starting up.
+23:38:38.129 [main] INFO  tools.DatabaseConnection - Initializing database connection pool. Connecting to:'jdbc:mysql://localhost:8585/infinity2025' with user:'root'
+23:38:38.174 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Starting...
+23:38:39.261 [main] INFO  pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5cdd09b1
+23:38:39.264 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Start completed.
+23:38:39.474 [main] INFO  tools.DatabaseConnection - Connection pool initialized in 1342 ms
+23:38:42.683 [main] INFO  server.Server - Starting world 0
+23:38:46.744 [main] INFO  channel.Channel - Channel 1: Listening on port 7575
+23:38:46.843 [main] INFO  channel.Channel - Channel 2: Listening on port 7576
+23:38:46.918 [main] INFO  channel.Channel - Channel 3: Listening on port 7577
+23:38:47.048 [main] INFO  channel.Channel - Channel 4: Listening on port 7578
+23:38:47.190 [main] INFO  channel.Channel - Channel 5: Listening on port 7579
+23:38:47.334 [main] INFO  server.Server - Finished loading world 0
+23:38:47.419 [main] INFO  server.Server - Listening on port 8484
+23:38:47.420 [main] INFO  server.Server - Cosmic is now online after 9584 ms.
+04:38:47.918 [nioEventLoopGroup-13-1] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:38:59.696 [nioEventLoopGroup-13-2] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:39:45.245 [nioEventLoopGroup-13-3] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:40:28.116 [nioEventLoopGroup-13-4] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:42:26.853 [nioEventLoopGroup-13-5] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:42:37.030 [nioEventLoopGroup-13-6] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:44:23.674 [nioEventLoopGroup-13-7] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:44:59.691 [nioEventLoopGroup-13-7] INFO  creator.CharacterFactory - Account bruno created chr with name Bruno
+04:45:01.055 [nioEventLoopGroup-3-1] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 38.56.112.1
+04:45:06.254 [pool-3-thread-7] DEBUG client.Character - Attempting to save chr Bruno
+04:45:06.261 [nioEventLoopGroup-13-8] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+04:56:53.361 [TimerManager-Worker-2] INFO  client.Client - Disconnected 38.56.112.1 due to idling. Reason: ALL_IDLE
+15:13:55.818 [nioEventLoopGroup-13-9] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+15:14:04.159 [nioEventLoopGroup-13-10] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+15:14:14.550 [nioEventLoopGroup-13-11] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+15:15:19.616 [nioEventLoopGroup-3-2] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 38.56.112.1
+15:16:24.494 [pool-3-thread-14] DEBUG client.Character - Attempting to save chr Bruno
+15:16:24.541 [nioEventLoopGroup-13-12] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+09:45:51.593 [nioEventLoopGroup-3-3] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 194.0.234.12
+12:24:28.251 [nioEventLoopGroup-3-4] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 194.0.234.12
+17:57:24.775 [nioEventLoopGroup-3-5] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 91.199.163.13
+21:12:22.554 [nioEventLoopGroup-3-6] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 91.199.163.13
+00:30:36.472 [nioEventLoopGroup-13-13] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+00:31:56.476 [nioEventLoopGroup-3-7] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 38.56.112.1
+00:32:01.885 [nioEventLoopGroup-3-7] INFO  command.CommandsExecutor - Chr Admin used command HideCommand
+00:32:08.920 [nioEventLoopGroup-3-7] INFO  command.CommandsExecutor - Chr Admin used command GmShopCommand
+00:32:24.672 [nioEventLoopGroup-3-7] INFO  command.CommandsExecutor - Chr Admin used command GiveMesosCommand
+00:32:27.416 [nioEventLoopGroup-3-7] INFO  command.CommandsExecutor - Chr Admin used command GmShopCommand
+00:38:43.833 [TimerManager-Worker-2] DEBUG client.Character - Attempting to autosave chr Admin
+00:45:14.773 [nioEventLoopGroup-3-8] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 91.199.163.13
+01:16:50.282 [nioEventLoopGroup-3-7] INFO  command.CommandsExecutor - Chr Admin used command OnlineCommand
+01:16:55.084 [nioEventLoopGroup-3-7] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+01:38:43.871 [TimerManager-Worker-2] DEBUG client.Character - Attempting to autosave chr Admin
+02:38:43.885 [TimerManager-Worker-4] DEBUG client.Character - Attempting to autosave chr Admin
+02:49:50.659 [nioEventLoopGroup-3-9] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 91.199.163.13
+03:28:27.526 [TimerManager-Worker-4] INFO  client.Client - Disconnected 38.56.112.1 due to idling. Reason: ALL_IDLE
+03:28:27.551 [pool-3-thread-13] DEBUG client.Character - Attempting to save chr Admin
+05:00:51.100 [nioEventLoopGroup-3-10] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 91.199.163.13
+05:05:21.924 [nioEventLoopGroup-13-14] DEBUG netty.LoginServerInitializer - Client connected to login server from 177.245.102.90 
+05:07:07.690 [nioEventLoopGroup-13-14] INFO  creator.CharacterFactory - Account mule1 created chr with name BailaloRocky
+05:07:11.555 [nioEventLoopGroup-3-11] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 177.245.102.90
+05:23:35.052 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr BailaloRocky
+05:31:02.247 [pool-3-thread-4] DEBUG client.Character - Attempting to save chr BailaloRocky
+05:31:02.251 [nioEventLoopGroup-13-15] DEBUG netty.LoginServerInitializer - Client connected to login server from 177.245.102.90 
+04:56:36.987 [nioEventLoopGroup-13-16] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.25.15.2 
+04:56:55.157 [nioEventLoopGroup-13-17] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.25.15.2 
+04:58:07.000 [nioEventLoopGroup-13-16] INFO  creator.CharacterFactory - Account lamuerte300 created chr with name Heal
+04:58:09.895 [nioEventLoopGroup-3-12] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 38.25.15.2
+05:01:22.694 [nioEventLoopGroup-13-18] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+05:01:49.443 [nioEventLoopGroup-3-13] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 38.56.112.1
+05:02:00.577 [nioEventLoopGroup-3-13] INFO  command.CommandsExecutor - Chr Admin used command OnlineCommand
+05:02:05.333 [nioEventLoopGroup-3-13] INFO  command.CommandsExecutor - Chr Admin used command HideCommand
+05:02:07.163 [nioEventLoopGroup-3-13] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+05:02:48.396 [nioEventLoopGroup-3-13] INFO  command.CommandsExecutor - Chr Admin used command ReachCommand
+05:03:13.010 [nioEventLoopGroup-3-13] INFO  command.CommandsExecutor - Chr Admin used command MaxSkillCommand
+05:03:24.147 [nioEventLoopGroup-3-13] INFO  command.CommandsExecutor - Chr Admin used command MaxStatCommand
+05:03:26.831 [nioEventLoopGroup-3-13] INFO  command.CommandsExecutor - Chr Admin used command HealCommand
+05:12:16.416 [nioEventLoopGroup-3-13] INFO  command.CommandsExecutor - Chr Admin used command OnlineCommand
+05:12:57.714 [pool-3-thread-15] DEBUG client.Character - Attempting to save chr Heal
+05:13:04.244 [nioEventLoopGroup-13-19] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.25.15.2 
+05:13:32.423 [nioEventLoopGroup-3-14] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 38.25.15.2
+05:21:37.133 [nioEventLoopGroup-3-13] INFO  command.CommandsExecutor - Chr Admin used command ReachCommand
+05:29:10.292 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Heal
+05:34:48.567 [nioEventLoopGroup-3-13] INFO  command.CommandsExecutor - Chr Admin used command OnlineCommand
+05:38:44.219 [TimerManager-Worker-1] DEBUG client.Character - Attempting to autosave chr Admin
+05:38:44.765 [TimerManager-Worker-1] DEBUG client.Character - Attempting to autosave chr Heal
+06:01:39.094 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Heal
+06:01:49.720 [nioEventLoopGroup-3-15] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 38.25.15.2
+06:23:23.186 [pool-3-thread-13] DEBUG client.Character - Attempting to save chr Heal
+06:38:44.228 [TimerManager-Worker-3] DEBUG client.Character - Attempting to autosave chr Admin
+07:38:44.249 [TimerManager-Worker-4] DEBUG client.Character - Attempting to autosave chr Admin
+08:03:16.163 [nioEventLoopGroup-3-13] WARN  client.Client - Exception caught by Admin
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[netty-buffer-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.109.Final.jar:4.1.109.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+08:03:16.210 [pool-3-thread-16] DEBUG client.Character - Attempting to save chr Admin
+16:28:51.273 [nioEventLoopGroup-13-20] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+16:29:05.006 [nioEventLoopGroup-13-21] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+16:31:42.536 [nioEventLoopGroup-13-22] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+16:31:59.556 [nioEventLoopGroup-13-23] DEBUG netty.LoginServerInitializer - Client connected to login server from 38.56.112.1 
+16:38:04.142 [nioEventLoopGroup-3-16] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 38.56.112.1
+16:38:14.049 [nioEventLoopGroup-3-16] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+16:38:17.804 [nioEventLoopGroup-3-16] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+16:38:20.779 [nioEventLoopGroup-3-16] INFO  command.CommandsExecutor - Chr Admin used command HideCommand
+16:38:44.368 [TimerManager-Worker-3] DEBUG client.Character - Attempting to autosave chr Admin
+16:46:18.323 [nioEventLoopGroup-13-24] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.236.179.157 
+16:47:00.536 [TimerManager-Worker-2] INFO  client.Client - Disconnected 38.56.112.1 due to idling. Reason: ALL_IDLE
+16:47:00.551 [pool-3-thread-8] DEBUG client.Character - Attempting to save chr Admin
+16:47:46.935 [nioEventLoopGroup-3-17] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 190.236.179.157
+16:47:54.552 [nioEventLoopGroup-3-17] INFO  command.CommandsExecutor - Chr Admin used command JobCommand
+16:48:02.470 [nioEventLoopGroup-3-17] INFO  command.CommandsExecutor - Chr Admin used command HideCommand
+16:55:40.962 [nioEventLoopGroup-13-25] DEBUG netty.LoginServerInitializer - Client connected to login server from 148.113.193.79 
+16:55:47.207 [nioEventLoopGroup-3-17] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+17:23:58.295 [nioEventLoopGroup-3-17] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+17:38:44.372 [TimerManager-Worker-4] DEBUG client.Character - Attempting to autosave chr Admin
+18:24:24.596 [nioEventLoopGroup-3-17] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+18:38:44.384 [TimerManager-Worker-1] DEBUG client.Character - Attempting to autosave chr Admin
+18:47:26.021 [nioEventLoopGroup-3-17] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+18:47:29.352 [nioEventLoopGroup-3-17] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+19:05:01.611 [nioEventLoopGroup-3-17] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+19:36:41.875 [nioEventLoopGroup-13-26] DEBUG netty.LoginServerInitializer - Client connected to login server from 177.245.102.90 
+19:38:44.396 [TimerManager-Worker-2] DEBUG client.Character - Attempting to autosave chr Admin
+19:48:15.868 [nioEventLoopGroup-13-27] DEBUG netty.LoginServerInitializer - Client connected to login server from 148.113.193.79 
+20:38:44.409 [TimerManager-Worker-1] DEBUG client.Character - Attempting to autosave chr Admin
+21:38:44.424 [TimerManager-Worker-1] DEBUG client.Character - Attempting to autosave chr Admin
+21:58:17.249 [nioEventLoopGroup-3-17] WARN  client.Client - Exception caught by Admin
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[netty-buffer-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.109.Final.jar:4.1.109.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.109.Final.jar:4.1.109.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+21:58:17.264 [pool-3-thread-9] DEBUG client.Character - Attempting to save chr Admin
+02:02:45.566 [nioEventLoopGroup-13-28] DEBUG netty.LoginServerInitializer - Client connected to login server from 148.113.193.79 
+02:39:48.418 [nioEventLoopGroup-13-29] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.236.179.157 
+02:40:01.786 [nioEventLoopGroup-13-30] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.236.179.157 
+02:43:34.033 [nioEventLoopGroup-13-31] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.236.179.157 
+02:49:08.471 [nioEventLoopGroup-13-32] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.236.179.157 
+02:49:19.854 [nioEventLoopGroup-13-1] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.236.179.157 
+02:58:21.527 [nioEventLoopGroup-13-2] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.236.179.157 
+02:58:57.085 [nioEventLoopGroup-3-18] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 190.236.179.157
+02:59:00.729 [nioEventLoopGroup-3-18] INFO  command.CommandsExecutor - Chr Admin used command OnlineCommand
+03:03:27.446 [nioEventLoopGroup-3-18] INFO  command.CommandsExecutor - Chr Admin used command GotoCommand
+03:04:00.223 [nioEventLoopGroup-3-18] INFO  command.CommandsExecutor - Chr Admin used command JobCommand
+03:38:44.505 [TimerManager-Worker-3] DEBUG client.Character - Attempting to autosave chr Admin
+04:11:52.078 [pool-3-thread-15] DEBUG client.Character - Attempting to save chr Admin
+04:11:56.032 [nioEventLoopGroup-13-3] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.236.179.157 
+04:28:08.162 [nioEventLoopGroup-13-4] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.236.179.157 
+04:43:33.562 [nioEventLoopGroup-13-5] DEBUG netty.LoginServerInitializer - Client connected to login server from 148.113.193.79 
+11:19:11.804 [nioEventLoopGroup-13-6] DEBUG netty.LoginServerInitializer - Client connected to login server from 148.113.193.79 
+18:28:01.219 [nioEventLoopGroup-13-7] DEBUG netty.LoginServerInitializer - Client connected to login server from 181.67.2.46 
+23:33:43.020 [nioEventLoopGroup-13-8] DEBUG netty.LoginServerInitializer - Client connected to login server from 181.67.2.46 
+23:33:59.147 [nioEventLoopGroup-3-19] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 181.67.2.46
+23:34:12.069 [nioEventLoopGroup-3-19] INFO  command.CommandsExecutor - Chr Admin used command OnlineCommand
+23:34:13.882 [nioEventLoopGroup-3-19] INFO  command.CommandsExecutor - Chr Admin used command OnlineTwoCommand
+23:34:17.299 [nioEventLoopGroup-3-19] INFO  command.CommandsExecutor - Chr Admin used command HideCommand
+23:38:44.769 [TimerManager-Worker-4] DEBUG client.Character - Attempting to autosave chr Admin
+23:46:32.385 [TimerManager-Worker-3] INFO  client.Client - Disconnected 181.67.2.46 due to idling. Reason: ALL_IDLE
+23:46:32.400 [pool-3-thread-2] DEBUG client.Character - Attempting to save chr Admin
+00:11:52.149 [nioEventLoopGroup-13-9] DEBUG netty.LoginServerInitializer - Client connected to login server from 181.67.2.46 
+00:12:32.875 [nioEventLoopGroup-3-20] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 181.67.2.46
+00:38:44.781 [TimerManager-Worker-3] DEBUG client.Character - Attempting to autosave chr Admin
+01:38:44.795 [TimerManager-Worker-3] DEBUG client.Character - Attempting to autosave chr Admin
+02:38:44.809 [TimerManager-Worker-1] DEBUG client.Character - Attempting to autosave chr Admin
+02:44:53.006 [pool-3-thread-16] DEBUG client.Character - Attempting to save chr Admin
+03:24:03.654 [nioEventLoopGroup-3-21] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 92.63.197.197
+03:24:04.034 [nioEventLoopGroup-3-22] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 92.63.197.197
+03:35:12.363 [nioEventLoopGroup-5-1] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 2 from 92.63.197.197
+03:35:12.738 [nioEventLoopGroup-5-2] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 2 from 92.63.197.197
+08:30:57.261 [nioEventLoopGroup-13-10] DEBUG netty.LoginServerInitializer - Client connected to login server from 148.113.193.79 
+13:38:23.393 [nioEventLoopGroup-13-11] DEBUG netty.LoginServerInitializer - Client connected to login server from 148.113.193.79 
+17:33:39.779 [nioEventLoopGroup-13-12] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.237.242.226 
+17:33:56.962 [nioEventLoopGroup-3-23] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 190.237.242.226
+17:35:25.991 [pool-3-thread-14] DEBUG client.Character - Attempting to save chr Admin
+17:35:35.883 [nioEventLoopGroup-13-13] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.237.242.226 
+17:36:31.940 [nioEventLoopGroup-13-14] DEBUG netty.LoginServerInitializer - Client connected to login server from 190.237.242.226 
+18:54:16.338 [Thread-0] INFO  server.Server - Shutting down the server!
+18:54:16.341 [Thread-0] INFO  channel.Channel - Shutting down channel 1 in world 0
+18:54:16.418 [Thread-0] INFO  channel.Channel - Successfully shut down channel 1 in world 0
+18:54:16.418 [Thread-0] INFO  channel.Channel - Shutting down channel 2 in world 0
+18:54:16.462 [Thread-0] INFO  channel.Channel - Successfully shut down channel 2 in world 0
+18:54:16.462 [Thread-0] INFO  channel.Channel - Shutting down channel 3 in world 0
+18:54:16.490 [Thread-0] INFO  channel.Channel - Successfully shut down channel 3 in world 0
+18:54:16.490 [Thread-0] INFO  channel.Channel - Shutting down channel 4 in world 0
+18:54:16.515 [Thread-0] INFO  channel.Channel - Successfully shut down channel 4 in world 0
+18:54:16.515 [Thread-0] INFO  channel.Channel - Shutting down channel 5 in world 0
+18:54:16.542 [Thread-0] INFO  channel.Channel - Successfully shut down channel 5 in world 0
+18:54:16.543 [Thread-0] INFO  world.World - Finished shutting down world 0
+18:54:16.555 [Thread-0] INFO  server.Server - Worlds and channels are offline.
